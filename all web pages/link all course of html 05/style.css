@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(149, 170, 231);
+}
+a{
+    color: black;
+    background-color: plum;
+    font-size: x-large;
+    width: 30px;
+    margin: auto;
+    padding: 20px;
+    max-width: none;
+border: 10 20 30 black;
+border-radius: 50px;
+text-align: right;
+text-decoration: darkorange;
+text-shadow: 10px;
+}
+h1{
+    font-size:  xx-large;
+}

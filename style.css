@@ -1,0 +1,139 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navlink {
+    margin: 5px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.navlink a {
+    text-decoration: noblacke;
+    color: white;
+    font-weight: bold;
+}
+
+.navlink a:hover {
+    color: greenyellow;
+    border-bottom: 2px solid greenyellow;
+}
+
+header {
+    text-align: center;
+    background-color: gray;
+}
+
+.main {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.welcome {
+    padding: 30px;
+}
+
+.welcometxt {
+    color: orange;
+    text-decoration: underline black;
+}
+
+.parent {
+    background-color: #3a6a78;
+    padding: 20px 0;
+    margin: auto;
+    text-align: center;
+}
+
+.card {
+    padding: 50px 0px;
+    margin: 20px;
+    display: inline-block;
+    background-color: white;
+    color: orange;
+    font-weight: bold;
+    /* box-shadow: 0 10px 12px rgb(192, 181, 29); */
+    border-radius: 8px;
+    padding-left: 20px;
+    width: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cardparent {
+    background-image: url(https://car-images.bauersecure.com/pagefiles/71531/april_fools_car_77.jpg);
+    text-align: center;
+    padding: 30px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.smallcard {
+    width: 250px;
+    color: white;
+    display: inline-block;
+    font-weight: bold;
+    background-color: rgba(0px, 0px, 0px, 0.8);
+}
+
+.back {
+    background: rgba(0, 0, 0, .5);
+    margin: 10px;
+    padding: 30PX;
+}
+
+.hammad {
+    padding: 30px;
+}
+
+.image {
+    padding-left: 200px;
+    padding-bottom: 50px;
+    width: 1200px;
+    height: 650px;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    width: 70px;
+    height: 60px;
+}
+
+.keyboard {
+    color: blue;
+    text-align: center;
+    padding-right: 900px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500px;
+    display: -moz-inline-box;
+    padding-right: 50px;
+}
+
+.keyboard :hover {
+    font-size: larger;
+    background-color: purple;
+}
+
+.footers {
+    background-color: rgb(0, 0, 0);
+    padding-left: 25px;
+}
+
+.footers ul {
+    display: inline-block;
+    padding-left: 500px;
+    /* padding-top: 100px; */
+    padding-bottom: 50px;
+}
+
+.footers h1 {
+
+color:white;
+text-decoration: underline 10px blue ;
+padding-left: 60px;
+}

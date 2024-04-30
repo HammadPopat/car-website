@@ -1,0 +1,17 @@
+.hammad{
+    background-attachment: fixed;
+
+}
+.navlink{width: 10px;
+    padding: 20px;
+    border-radius: 500px;
+color: blue;
+display: inline-block;
+}
+header{
+    
+}
+.navlink:hover{
+    color: blue;
+    background-color: burlywood;
+}
